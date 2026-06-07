@@ -34,3 +34,6 @@ The project uses MySQL for data storage, Python for data analysis, and Streamlit
 4. Perform churn analysis using Pandas
 5. Generate insights and business recommendations
 6. Visualize results using Streamlit Dashboard
+
+##Author
+SANJITA VERMA
