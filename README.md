@@ -8,7 +8,7 @@ The project uses MySQL for data storage, Python for data analysis, and Streamlit
 
 ---
 
-##Objectives
+## Objectives
 
 * Analyze customer churn patterns
 * Identify key factors leading to customer attrition
@@ -18,7 +18,7 @@ The project uses MySQL for data storage, Python for data analysis, and Streamlit
 
 ---
 
-##Technology Stack
+## Technology Stack
 
 * **Database:** MySQL
 * **Programming Language:** Python
@@ -35,5 +35,5 @@ The project uses MySQL for data storage, Python for data analysis, and Streamlit
 5. Generate insights and business recommendations
 6. Visualize results using Streamlit Dashboard
 
-##Author
+## Author
 SANJITA VERMA
